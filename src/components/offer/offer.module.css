@@ -1,0 +1,44 @@
+/* p, span, h2 {
+  color: #140C01;
+  transition: color 1s, font-weight 1s;
+  font-weight: 500;
+} */
+
+/* a > span {
+  color: #140C01;
+} */
+
+a:hover > span {
+  color: #5282FF;
+}
+
+.offer__name {
+  margin:  auto, 0;
+}
+
+.options__name {
+  font-size: 15px;
+  border-bottom: 1px dashed black;
+  margin: 0;
+  display: inline;
+}
+
+.status__deny {
+  display: inline;
+  vertical-align: middle;
+  padding-left: 180px;
+  font-weight: 600;
+}
+
+::-webkit-scrollbar {
+  /* height: 664px; */
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #eaeaf7;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #126d00;
+}
