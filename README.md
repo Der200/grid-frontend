@@ -19,4 +19,5 @@ React, Redux (Redux Toolkit), Material UI, React-router-dom (v5)
 1. форкнуть текущий репозиторий;
 2. установить через npm install;
 3. запустить через npm start.
+
 !По умолчанию запускается через 3000 порт (create-react-app).
